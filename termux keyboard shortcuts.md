@@ -1,0 +1,1 @@
+https://wiki.termux.com/wiki/Touch_Keyboard

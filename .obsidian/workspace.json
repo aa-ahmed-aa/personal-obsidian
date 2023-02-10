@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work log/__2023_02_09_(_Thursday_).md",
+                "file": "work/work log/__2023_02_10_(_Friday_).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3c7175f60fd64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/work log/__2023_02_10_(_Friday_).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c64504c14d7c4335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enable obsidian on mobile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "010adaad7d84e16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enable obsidian on mobile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work log/__2023_02_09_(_Thursday_).md",
+                "file": "enable obsidian on mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work log/__2023_02_09_(_Thursday_).md",
+                "file": "enable obsidian on mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work log/__2023_02_09_(_Thursday_).md"
+                "file": "enable obsidian on mobile.md"
               }
             }
           },
@@ -165,17 +202,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39d74a342a67faed",
+  "active": "010adaad7d84e16f",
   "lastOpenFiles": [
+    "termux keyboard shortcuts.md",
+    "enable obsidian on mobile.md",
+    "work/work log/__2023_02_10_(_Friday_).md",
+    "CDC (Change Data Capture).md",
     "work/work log/__2023_02_09_(_Thursday_).md",
     "life/wake up earlly.md",
     "knowledge/Cumulio.md",
     "work/work log/__2023_02_08_(_Wednesday_).md",
     "templates/Daily work log.md",
-    "templates/New Article Template.md",
-    "work/work log/2023-02-08 (Wednesday).md",
-    "work/work log/Untitled.md",
-    "work/work log/2023-02-09 (Thursday).md",
-    "Untitled.md"
+    "templates/New Article Template.md"
   ]
 }
