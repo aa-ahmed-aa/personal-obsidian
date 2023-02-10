@@ -11,8 +11,12 @@
             "id": "5c66b916d257e485",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "life/wake up earlly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "life/wake up earlly.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "life/wake up earlly.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "life/wake up earlly.md"
+          }
         }
       },
       {
@@ -130,5 +138,8 @@
     "currentTab": 4
   },
   "active": "5c66b916d257e485",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "العيشه في استونيا 🇪🇪🇪🇪.md",
+    "life/wake up earlly.md"
+  ]
 }
