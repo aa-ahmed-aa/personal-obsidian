@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "__YYYY_MM_DD_(_dddd_)",
-    "template": "templates/Daily work log.md",
+    "template": "templates/Daily log.md",
     "folder": "work/work log",
     "enabled": true
   },

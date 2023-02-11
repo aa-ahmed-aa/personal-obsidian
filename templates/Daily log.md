@@ -7,7 +7,9 @@
 - [ ] Brush your teeth
 - [ ] Sob7 Prayers
 
-## What has been done !
+## Want to do today
+
+## Actually done
 
 ## Want to do next (1 or 2 things)
 
