@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21ac7022e5bf1c6f",
+            "id": "1e64805b9d999ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work log/__2023_02_10_(_Friday_).md",
+                "file": "work/work log/__2023_02_11_(_Saturday_).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e64805b9d999ad7",
+            "id": "3926504d502ca5de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_11_(_Saturday_).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_11_(_Saturday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_11_(_Saturday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "work/work log/__2023_02_11_(_Saturday_).md"
               }
             }
           },
@@ -178,17 +178,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e64805b9d999ad7",
+  "active": "3926504d502ca5de",
   "lastOpenFiles": [
-    "Debezium.md",
-    "work/work log/__2023_02_10_(_Friday_).md",
+    "knowledge/Cumulio.md",
     "work/work log/__2023_02_11_(_Saturday_).md",
-    "templates/Daily log.md",
-    "life/wake up earlly.md",
-    "CDC (Change Data Capture).md",
-    "enable obsidian on mobile.md",
-    "life/العيشه في استونيا 🇪🇪🇪🇪.md",
+    "Sylius.md",
+    "work/work log/__2023_02_10_(_Friday_).md",
     "work/work log/__2023_02_08_(_Wednesday_).md",
-    "README.md"
+    "templates/New Article Template.md",
+    "templates/Daily log.md",
+    "Enable obsidian on mobile.md",
+    "Termux keyboard shortcuts.md",
+    "Debezium.md"
   ]
 }

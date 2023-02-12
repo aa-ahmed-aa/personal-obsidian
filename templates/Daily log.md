@@ -8,8 +8,7 @@
 - [ ] Sob7 Prayers
 
 ## Want to do today
-
-## Actually done
+- [ ] 
 
 ## Want to do next (1 or 2 things)
 

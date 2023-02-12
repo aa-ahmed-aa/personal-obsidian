@@ -15,4 +15,4 @@
 - courses to finish
 	- cumulio course for begginers
 	- prodct courses by Chris
-- read more about dubeziume and try to ask #Ain more questions about it
+- read more about dubeziume
