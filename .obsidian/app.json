@@ -1,5 +1,6 @@
 {
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "templatews"
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true
 }

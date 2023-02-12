@@ -1,1 +1,1 @@
-This is my second brain
+This is my second brain ![[Screenshot 2023-02-12 at 12.17.12.png]]
