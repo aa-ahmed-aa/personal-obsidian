@@ -14,10 +14,53 @@
               "type": "markdown",
               "state": {
                 "file": "life/wake up earlly.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "9e9ee7d9e5da4679"
+          }
+        ]
+      },
+      {
+        "id": "8b798f9e796a04c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "786dcbe76837994f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "life/wake up earlly.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2839523238732548,
+                  "close": false
+                }
+              }
+            },
+            "group": "9e9ee7d9e5da4679"
           }
         ]
       }
@@ -137,7 +180,7 @@
     ],
     "currentTab": 4
   },
-  "active": "5c66b916d257e485",
+  "active": "786dcbe76837994f",
   "lastOpenFiles": [
     "life/العيشه في استونيا 🇪🇪🇪🇪.md",
     "life/wake up earlly.md"
