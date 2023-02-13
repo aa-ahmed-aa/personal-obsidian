@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3926504d502ca5de",
+            "id": "fca883bb8b0bbf0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/concepts/CDC (Change Data Capture).md",
+                "file": "Daily log/__2023_02_12_(_Sunday_).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fca883bb8b0bbf0e",
+            "id": "538eae244411a2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "knowledge/technologies/ArgoCD.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "knowledge/technologies/ArgoCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "knowledge/technologies/ArgoCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "knowledge/technologies/ArgoCD.md"
               }
             }
           },
@@ -178,17 +178,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fca883bb8b0bbf0e",
+  "active": "538eae244411a2cf",
   "lastOpenFiles": [
+    "Daily log/__2023_02_12_(_Sunday_).md",
+    "knowledge/technologies/Raspery PI.md",
+    "life/Arwa.md",
+    "knowledge/technologies/ArgoCD.md",
+    "README.md",
+    "Daily log/__2023_02_11_(_Saturday_).md",
+    "Daily log/__2023_02_10_(_Friday_).md",
     "knowledge/concepts/CDC (Change Data Capture).md",
     "knowledge/technologies/Debezium.md",
-    "knowledge/technologies/Cumulio.md",
-    "knowledge/technologies/Sylius.md",
-    "README.md",
-    "Daily log/__2023_02_12_(_Sunday_).md",
-    "Daily log/__2023_02_11_(_Saturday_).md",
-    "Daily log/__2023_02_09_(_Thursday_).md",
-    "Daily log/__2023_02_08_(_Wednesday_).md",
-    "Daily log/__2023_02_10_(_Friday_).md"
+    "knowledge/technologies/Cumulio.md"
   ]
 }
