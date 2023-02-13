@@ -8,24 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fca883bb8b0bbf0e",
+            "id": "1e64805b9d999ad7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily log/__2023_02_12_(_Sunday_).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "538eae244411a2cf",
+            "id": "3926504d502ca5de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_13_(_Monday_).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_13_(_Monday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "work/work log/__2023_02_13_(_Monday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "work/work log/__2023_02_13_(_Monday_).md"
               }
             }
           },
@@ -173,22 +169,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "publish:Publish changes": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "538eae244411a2cf",
+  "active": "13c9b83b21f2cdd1",
   "lastOpenFiles": [
-    "attachments/Screenshot 2023-02-12 at 12.17.12.png",
-    "README.md",
-    "knowledge/technologies/ArgoCD.md",
     "Daily log/__2023_02_12_(_Sunday_).md",
-    "knowledge/technologies/Raspery PI.md",
-    "life/Arwa.md",
-    "Daily log/__2023_02_11_(_Saturday_).md",
     "Daily log/__2023_02_10_(_Friday_).md",
-    "knowledge/concepts/CDC (Change Data Capture).md",
-    "knowledge/technologies/Debezium.md"
+    "work/work log/__2023_02_10_(_Friday_).md",
+    "work/work log/__2023_02_11_(_Saturday_).md",
+    "knowledge/Cumulio.md",
+    "Sylius.md",
+    "work/work log/__2023_02_08_(_Wednesday_).md",
+    "templates/New Article Template.md",
+    "templates/Daily log.md",
+    "Enable obsidian on mobile.md"
   ]
 }
