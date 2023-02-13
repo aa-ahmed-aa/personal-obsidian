@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/technologies/ArgoCD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/technologies/ArgoCD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/technologies/ArgoCD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/technologies/ArgoCD.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "538eae244411a2cf",
   "lastOpenFiles": [
+    "attachments/Screenshot 2023-02-12 at 12.17.12.png",
+    "README.md",
+    "knowledge/technologies/ArgoCD.md",
     "Daily log/__2023_02_12_(_Sunday_).md",
     "knowledge/technologies/Raspery PI.md",
     "life/Arwa.md",
-    "knowledge/technologies/ArgoCD.md",
-    "README.md",
     "Daily log/__2023_02_11_(_Saturday_).md",
     "Daily log/__2023_02_10_(_Friday_).md",
     "knowledge/concepts/CDC (Change Data Capture).md",
-    "knowledge/technologies/Debezium.md",
-    "knowledge/technologies/Cumulio.md"
+    "knowledge/technologies/Debezium.md"
   ]
 }

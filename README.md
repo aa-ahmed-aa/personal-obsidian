@@ -1,1 +1,1 @@
-This is my second brain ![[Screenshot 2023-02-12 at 12.17.12.png]]
+This is my second brain ![graph](https://github.com/aa-ahmed-aa/obsidian-git-sync/blob/master/attachments/Screenshot%202023-02-12%20at%2012.17.12.png)
