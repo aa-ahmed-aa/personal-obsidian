@@ -5,7 +5,7 @@
   "daily": {
     "format": "__YYYY_MM_DD_(_dddd_)",
     "template": "templates/Daily log.md",
-    "folder": "Daily log",
+    "folder": "daily_log",
     "enabled": true
   },
   "weekly": {

@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e64805b9d999ad7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3926504d502ca5de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_13_(_Monday_).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_13_(_Monday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_13_(_Monday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work log/__2023_02_13_(_Monday_).md"
+                "file": "daily_log/__2023_02_13_(_Monday_).md"
               }
             }
           },
@@ -174,17 +165,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "13c9b83b21f2cdd1",
+  "active": "173942acb2634c97",
   "lastOpenFiles": [
-    "Daily log/__2023_02_12_(_Sunday_).md",
-    "Daily log/__2023_02_10_(_Friday_).md",
+    "work/Work cultures.md",
+    "daily_log/__2023_02_13_(_Monday_).md",
+    "daily_log/__2023_02_12_(_Sunday_).md",
+    "daily_log/__2023_02_10_(_Friday_).md",
     "work/work log/__2023_02_10_(_Friday_).md",
     "work/work log/__2023_02_11_(_Saturday_).md",
     "knowledge/Cumulio.md",
     "Sylius.md",
     "work/work log/__2023_02_08_(_Wednesday_).md",
-    "templates/New Article Template.md",
-    "templates/Daily log.md",
-    "Enable obsidian on mobile.md"
+    "templates/New Article Template.md"
   ]
 }
