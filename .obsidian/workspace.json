@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3926504d502ca5de",
+            "id": "538eae244411a2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_log/__2023_02_13_(_Monday_).md",
+                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_log/__2023_02_13_(_Monday_).md"
+                "file": "daily_log/__2023_02_14_(_Tuesday_).md"
               }
             }
           },
@@ -160,22 +160,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "publish:Publish changes": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "173942acb2634c97",
+  "active": "538eae244411a2cf",
   "lastOpenFiles": [
-    "work/Work cultures.md",
+    "daily_log/__2023_02_14_(_Tuesday_).md",
     "daily_log/__2023_02_13_(_Monday_).md",
-    "daily_log/__2023_02_12_(_Sunday_).md",
-    "daily_log/__2023_02_10_(_Friday_).md",
-    "work/work log/__2023_02_10_(_Friday_).md",
-    "work/work log/__2023_02_11_(_Saturday_).md",
-    "knowledge/Cumulio.md",
-    "Sylius.md",
-    "work/work log/__2023_02_08_(_Wednesday_).md",
-    "templates/New Article Template.md"
+    "README.md",
+    "attachments/Screenshot 2023-02-12 at 12.17.12.png",
+    "knowledge/technologies/ArgoCD.md",
+    "Daily log/__2023_02_12_(_Sunday_).md",
+    "knowledge/technologies/Raspery PI.md",
+    "life/Arwa.md",
+    "Daily log/__2023_02_11_(_Saturday_).md",
+    "Daily log/__2023_02_10_(_Friday_).md"
   ]
 }
