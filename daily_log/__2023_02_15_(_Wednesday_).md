@@ -1,6 +1,6 @@
 
-2023-02-14 (Tuesday)
-04:39 AM
+2023-02-15 (Wednesday)
+20:09 PM
 
 ## Morning Tasks
 - [x] Wake up at 8 or eariler
@@ -8,15 +8,10 @@
 - [x] Sob7 Prayers
 
 ## Want to do today
-- [x] draw system diagram and if possible
-- [x] create repo for storak-auth-ui
-- [x] do tasks for storak
-- [x] send to momen about the storak-auth-ui
-- [x] deploy the tracking ticket
-- [x] merge archive ticket and assign new ticket
+- [ ] Work on storak ticket
+- [ ] please make sure the katana-ui is deployed and move tickets to done
 - [ ] complete stock section of katana product
 - [ ] embeeded dashboard section of cumulio
-
 
 ## Want to do next (1 or 2 things)
 

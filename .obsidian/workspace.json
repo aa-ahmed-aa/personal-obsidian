@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
+                "file": "daily_log/__2023_02_15_(_Wednesday_).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
+                "file": "daily_log/__2023_02_15_(_Wednesday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_log/__2023_02_14_(_Tuesday_).md",
+                "file": "daily_log/__2023_02_15_(_Wednesday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_log/__2023_02_14_(_Tuesday_).md"
+                "file": "daily_log/__2023_02_15_(_Wednesday_).md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "538eae244411a2cf",
   "lastOpenFiles": [
     "daily_log/__2023_02_14_(_Tuesday_).md",
+    "daily_log/__2023_02_15_(_Wednesday_).md",
     "daily_log/__2023_02_13_(_Monday_).md",
     "README.md",
     "attachments/Screenshot 2023-02-12 at 12.17.12.png",
@@ -175,7 +176,6 @@
     "Daily log/__2023_02_12_(_Sunday_).md",
     "knowledge/technologies/Raspery PI.md",
     "life/Arwa.md",
-    "Daily log/__2023_02_11_(_Saturday_).md",
-    "Daily log/__2023_02_10_(_Friday_).md"
+    "Daily log/__2023_02_11_(_Saturday_).md"
   ]
 }
