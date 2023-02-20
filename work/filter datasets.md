@@ -1,0 +1,3 @@
+- go to the dataset at https://app.cumul.io/start/datasets
+- open the dataset and enter your filter values in the seaarch box under the field name
+	- ![[Pasted image 20230220132235.png]]

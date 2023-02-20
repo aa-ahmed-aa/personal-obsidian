@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "db79fcdc1d2cccf4",
+        "id": "085c5730370dfdbd",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc32b76242e7a7f",
+            "id": "274c5797ea2fc8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_log/__2023_02_17_(_Friday_).md",
+                "file": "work/Back filling data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d29000c38dc2ff3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/Cumulio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397c5cc0b49f4b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/cumulio work related.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_log/__2023_02_17_(_Friday_).md",
+                "file": "work/cumulio work related.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_log/__2023_02_17_(_Friday_).md",
+                "file": "work/cumulio work related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_log/__2023_02_17_(_Friday_).md"
+                "file": "work/cumulio work related.md"
               }
             }
           },
@@ -165,17 +190,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dbc32b76242e7a7f",
+  "active": "397c5cc0b49f4b48",
   "lastOpenFiles": [
-    "daily_log/__2023_02_16_(_Thursday_).md",
-    "daily_log/__2023_02_15_(_Wednesday_).md",
-    "daily_log/__2023_02_14_(_Tuesday_).md",
-    "conflict-files-obsidian-git.md",
-    "templates/Daily log.md",
-    "daily_log/__2023_02_13_(_Monday_).md",
+    "knowledge/technologies/Cumulio.md",
+    "work/using kafka-connect to feed cdc topics.md",
+    "work/Back filling data.md",
+    "work/open kafka-ui in okteto.md",
+    "work/filter datasets.md",
     "work/Work cultures.md",
-    "daily_log/__2023_02_12_(_Sunday_).md",
-    "daily_log/__2023_02_10_(_Friday_).md",
-    "work/work log/__2023_02_10_(_Friday_).md"
+    "work/Develop stock usage or stock value plugin.md",
+    "daily_log/__2023_02_17_(_Friday_).md",
+    "daily_log/__2023_02_16_(_Thursday_).md",
+    "daily_log/__2023_02_15_(_Wednesday_).md"
   ]
 }
