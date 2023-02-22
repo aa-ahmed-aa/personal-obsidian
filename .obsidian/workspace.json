@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea43ec02d53716ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/devspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862c010cec5e1b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/loft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d2137c4d5bd0f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/Prometheus operator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/cumulio work related.md",
+                "file": "knowledge/technologies/Prometheus operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/cumulio work related.md",
+                "file": "knowledge/technologies/Prometheus operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/cumulio work related.md"
+                "file": "knowledge/technologies/Prometheus operator.md"
               }
             }
           },
@@ -190,17 +226,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "397c5cc0b49f4b48",
+  "active": "5d2137c4d5bd0f38",
   "lastOpenFiles": [
+    "knowledge/technologies/loft.md",
+    "knowledge/technologies/devspace.md",
+    "work/cumulio work related.md",
     "knowledge/technologies/Cumulio.md",
     "work/using kafka-connect to feed cdc topics.md",
     "work/Back filling data.md",
     "work/open kafka-ui in okteto.md",
     "work/filter datasets.md",
     "work/Work cultures.md",
-    "work/Develop stock usage or stock value plugin.md",
-    "daily_log/__2023_02_17_(_Friday_).md",
-    "daily_log/__2023_02_16_(_Thursday_).md",
-    "daily_log/__2023_02_15_(_Wednesday_).md"
+    "work/Develop stock usage or stock value plugin.md"
   ]
 }
