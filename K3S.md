@@ -1,0 +1,2 @@
+Mini lightweight kubernetes cluster used by [[K3D]] to create mini clusters to play with
+or as docs wraps it up [[K3S]] is Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
