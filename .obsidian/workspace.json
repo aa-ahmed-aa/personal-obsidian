@@ -126,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f1c9877405ff1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/Antigen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5292f4cb8889db5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/technologies/Antigen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
+                "file": "knowledge/technologies/Antigen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
+                "file": "knowledge/technologies/Antigen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md"
+                "file": "knowledge/technologies/Antigen.md"
               }
             }
           },
@@ -274,17 +298,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbfbddc710d3e5d1",
+  "active": "5292f4cb8889db5e",
   "lastOpenFiles": [
+    "zsh.md",
+    "knowledge/technologies/Antigen.md",
+    "knowledge/hacks/enable slack-notification for prometheus.md",
     "knowledge/hacks/enable obsidian on mobile.md",
     "work/open kafka-ui in okteto.md",
-    "knowledge/hacks/enable slack-notification for prometheus.md",
     "knowledge/technologies/Prometheus operator.md",
     "knowledge/technologies/K3D.md",
     "knowledge/technologies/loft.md",
     "K3S.md",
-    "knowledge/technologies/Raspery PI.md",
-    "knowledge/technologies/devspace.md",
-    "knowledge/technologies/Debezium.md"
+    "knowledge/technologies/Raspery PI.md"
   ]
 }
