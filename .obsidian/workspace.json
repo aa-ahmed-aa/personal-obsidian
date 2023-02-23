@@ -150,9 +150,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00a95b6ccb2b5025",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/technologies/Antigen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/technologies/Antigen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,9 +263,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "knowledge/technologies/Antigen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -298,17 +302,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5292f4cb8889db5e",
+  "active": "00a95b6ccb2b5025",
   "lastOpenFiles": [
-    "zsh.md",
+    "conflict-files-obsidian-git.md",
     "knowledge/technologies/Antigen.md",
+    "zsh.md",
     "knowledge/hacks/enable slack-notification for prometheus.md",
     "knowledge/hacks/enable obsidian on mobile.md",
     "work/open kafka-ui in okteto.md",
     "knowledge/technologies/Prometheus operator.md",
     "knowledge/technologies/K3D.md",
     "knowledge/technologies/loft.md",
-    "K3S.md",
-    "knowledge/technologies/Raspery PI.md"
+    "K3S.md"
   ]
 }
