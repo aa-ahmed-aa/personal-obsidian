@@ -4,163 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "085c5730370dfdbd",
+        "id": "9da8b3a2769110f2",
         "type": "tabs",
         "children": [
           {
-            "id": "274c5797ea2fc8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Back filling data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d29000c38dc2ff3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Cumulio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397c5cc0b49f4b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/cumulio work related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea43ec02d53716ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/devspace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862c010cec5e1b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/loft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d2137c4d5bd0f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/loft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3495914112b6981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/K3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f70c1fcf68a2563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Prometheus operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5655da98e19dfd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbfbddc710d3e5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f1c9877405ff1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Antigen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5292f4cb8889db5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Antigen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a95b6ccb2b5025",
+            "id": "093e643f5be04ea7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 300
   },
   "right": {
     "id": "2893877acc8c69fc",
@@ -297,22 +152,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "publish:Publish changes": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "00a95b6ccb2b5025",
+  "active": "093e643f5be04ea7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "commit all.md",
+    "README.md",
     "knowledge/technologies/Antigen.md",
-    "zsh.md",
-    "knowledge/hacks/enable slack-notification for prometheus.md",
-    "knowledge/hacks/enable obsidian on mobile.md",
-    "work/open kafka-ui in okteto.md",
+    "knowledge/hacks/delete k8s namespace.md",
+    "knowledge/technologies/zsh.md",
+    "knowledge/technologies/K3S.md",
     "knowledge/technologies/Prometheus operator.md",
-    "knowledge/technologies/K3D.md",
     "knowledge/technologies/loft.md",
-    "K3S.md"
+    "knowledge/technologies/K3D.md",
+    "knowledge/technologies/devspace.md"
   ]
 }
