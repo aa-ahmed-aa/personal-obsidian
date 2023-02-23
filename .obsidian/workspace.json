@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "085c5730370dfdbd",
+        "id": "14c3ea14804c7b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "274c5797ea2fc8f6",
+            "id": "5a8586dabd9e6b92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Back filling data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d29000c38dc2ff3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Cumulio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397c5cc0b49f4b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/cumulio work related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea43ec02d53716ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/devspace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862c010cec5e1b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/loft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d2137c4d5bd0f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/loft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3495914112b6981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/K3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f70c1fcf68a2563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Prometheus operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5655da98e19dfd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbfbddc710d3e5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
+                "file": "daily_log/__2023_02_18_(_Saturday_).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 300
   },
   "right": {
     "id": "2893877acc8c69fc",
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
+                "file": "daily_log/__2023_02_18_(_Saturday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md",
+                "file": "daily_log/__2023_02_18_(_Saturday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/enable slack-notification for prometheus.md"
+                "file": "daily_log/__2023_02_18_(_Saturday_).md"
               }
             }
           },
@@ -269,22 +160,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "publish:Publish changes": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbfbddc710d3e5d1",
+  "active": "5a8586dabd9e6b92",
   "lastOpenFiles": [
-    "knowledge/hacks/enable obsidian on mobile.md",
-    "work/open kafka-ui in okteto.md",
-    "knowledge/hacks/enable slack-notification for prometheus.md",
-    "knowledge/technologies/Prometheus operator.md",
-    "knowledge/technologies/K3D.md",
-    "knowledge/technologies/loft.md",
-    "K3S.md",
-    "knowledge/technologies/Raspery PI.md",
-    "knowledge/technologies/devspace.md",
-    "knowledge/technologies/Debezium.md"
+    "daily_log/__2023_02_18_(_Saturday_).md",
+    "daily_log/__2023_02_17_(_Friday_).md",
+    "daily_log/__2023_02_15_(_Wednesday_).md",
+    "daily_log/__2023_02_14_(_Tuesday_).md",
+    "daily_log/__2023_02_13_(_Monday_).md",
+    "README.md",
+    "attachments/Screenshot 2023-02-12 at 12.17.12.png",
+    "knowledge/technologies/ArgoCD.md",
+    "Daily log/__2023_02_12_(_Sunday_).md",
+    "knowledge/technologies/Raspery PI.md"
   ]
 }
