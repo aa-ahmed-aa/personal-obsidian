@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14c3ea14804c7b9b",
+        "id": "b66aee7ae15dd5b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8586dabd9e6b92",
+            "id": "4d09f042b95929d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_log/__2023_02_18_(_Saturday_).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_log/__2023_02_18_(_Saturday_).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_log/__2023_02_18_(_Saturday_).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily_log/__2023_02_18_(_Saturday_).md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,17 +158,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a8586dabd9e6b92",
+  "active": "4d09f042b95929d5",
   "lastOpenFiles": [
-    "daily_log/__2023_02_18_(_Saturday_).md",
-    "daily_log/__2023_02_17_(_Friday_).md",
-    "daily_log/__2023_02_15_(_Wednesday_).md",
-    "daily_log/__2023_02_14_(_Tuesday_).md",
-    "daily_log/__2023_02_13_(_Monday_).md",
+    "knowledge/technologies/K3S.md",
     "README.md",
-    "attachments/Screenshot 2023-02-12 at 12.17.12.png",
+    "knowledge/technologies/Prometheus operator.md",
+    "knowledge/technologies/loft.md",
+    "knowledge/technologies/K3D.md",
+    "knowledge/technologies/devspace.md",
+    "knowledge/technologies/Debezium.md",
+    "knowledge/technologies/Cumulio.md",
     "knowledge/technologies/ArgoCD.md",
-    "Daily log/__2023_02_12_(_Sunday_).md",
-    "knowledge/technologies/Raspery PI.md"
+    "daily_log/__2023_02_18_(_Saturday_).md"
   ]
 }
