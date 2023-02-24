@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "775deee2233bdbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/Redis Operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/technologies/Redis Operator.md",
+                "file": "knowledge/hacks/delete k8s namespace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/technologies/Redis Operator.md",
+                "file": "knowledge/hacks/delete k8s namespace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/technologies/Redis Operator.md"
+                "file": "knowledge/hacks/delete k8s namespace.md"
               }
             }
           },
@@ -163,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,17 +165,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "775deee2233bdbee",
+  "active": "093e643f5be04ea7",
   "lastOpenFiles": [
+    "knowledge/hacks/screen.md",
     "knowledge/hacks/delete k8s namespace.md",
+    "knowledge/technologies/devspace.md",
+    "knowledge/technologies/Redis Operator.md",
     "commit all.md",
     "README.md",
     "knowledge/technologies/Antigen.md",
     "knowledge/technologies/zsh.md",
     "knowledge/technologies/K3S.md",
-    "knowledge/technologies/Prometheus operator.md",
-    "knowledge/technologies/loft.md",
-    "knowledge/technologies/K3D.md",
-    "knowledge/technologies/devspace.md"
+    "knowledge/technologies/Prometheus operator.md"
   ]
 }
