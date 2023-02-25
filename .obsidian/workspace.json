@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "df0cc03f6aaab447",
+            "id": "3a364f5735dbc03c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🫡.md",
+                "file": "knowledge/hacks/K8s service hack 🛸.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🫡.md",
+                "file": "knowledge/hacks/K8s service hack 🛸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🫡.md",
+                "file": "knowledge/hacks/K8s service hack 🛸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🫡.md"
+                "file": "knowledge/hacks/K8s service hack 🛸.md"
               }
             }
           },
@@ -178,17 +178,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df0cc03f6aaab447",
+  "active": "3a364f5735dbc03c",
   "lastOpenFiles": [
+    "knowledge/hacks/microplane.md",
     "knowledge/technologies/devspace.md",
+    "knowledge/hacks/K8s service hack 🛸.md",
     "knowledge/hacks/delete k8s namespace.md",
     "knowledge/hacks/screen.md",
     "knowledge/technologies/Redis Operator.md",
     "commit all.md",
     "README.md",
     "knowledge/technologies/Antigen.md",
-    "knowledge/technologies/zsh.md",
-    "knowledge/technologies/K3S.md",
-    "knowledge/technologies/Prometheus operator.md"
+    "knowledge/technologies/zsh.md"
   ]
 }
