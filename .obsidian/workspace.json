@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9da8b3a2769110f2",
+        "id": "1cf26a022d8c4c66",
         "type": "tabs",
         "children": [
           {
-            "id": "093e643f5be04ea7",
+            "id": "b451ba54e6988201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/technologies/devspace.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "3a364f5735dbc03c",
+            "id": "3e51302ff2177ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🛸.md",
+                "file": "knowledge/technologies/K8s Plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🛸.md",
+                "file": "knowledge/technologies/K8s Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🛸.md",
+                "file": "knowledge/technologies/K8s Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/K8s service hack 🛸.md"
+                "file": "knowledge/technologies/K8s Plugins.md"
               }
             }
           },
@@ -178,17 +174,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a364f5735dbc03c",
+  "active": "3e51302ff2177ae7",
   "lastOpenFiles": [
-    "knowledge/hacks/microplane.md",
+    "knowledge/technologies/kubectl plugins/kubelogin.md",
     "knowledge/technologies/devspace.md",
+    "knowledge/hacks/Untitled.md",
     "knowledge/hacks/K8s service hack 🛸.md",
+    "knowledge/hacks/microplane.md",
     "knowledge/hacks/delete k8s namespace.md",
     "knowledge/hacks/screen.md",
     "knowledge/technologies/Redis Operator.md",
     "commit all.md",
-    "README.md",
-    "knowledge/technologies/Antigen.md",
-    "knowledge/technologies/zsh.md"
+    "README.md"
   ]
 }
