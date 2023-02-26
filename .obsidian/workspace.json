@@ -28,24 +28,24 @@
             }
           },
           {
-            "id": "567d49ca6f26d917",
+            "id": "2b68172e12e18012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/hacks/Nginx create landing page.md",
+                "file": "knowledge/hacks/Forcing docker to use linux amd64 platform by default.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43ca9d46b19d3ebe",
+            "id": "97adaf5645acb51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/hacks/scp.md",
+                "file": "knowledge/hacks/Multi-arch images in docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/scp.md",
+                "file": "knowledge/hacks/Multi-arch images in docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/scp.md",
+                "file": "knowledge/hacks/Multi-arch images in docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/scp.md"
+                "file": "knowledge/hacks/Multi-arch images in docker.md"
               }
             }
           },
@@ -198,17 +198,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "43ca9d46b19d3ebe",
+  "active": "97adaf5645acb51c",
   "lastOpenFiles": [
-    "knowledge/hacks/Nginx create landing page.md",
+    "knowledge/hacks/Forcing docker to use linux amd64 platform by default.md",
     "knowledge/hacks/screen.md",
+    "knowledge/hacks/Nginx create landing page.md",
+    "knowledge/hacks/scp.md",
     "knowledge/technologies/K8s Plugins.md",
     "knowledge/technologies/kubectl plugins/kubelogin.md",
     "knowledge/technologies/devspace.md",
     "knowledge/hacks/K8s service hack 🛸.md",
     "knowledge/hacks/microplane.md",
-    "knowledge/hacks/delete k8s namespace.md",
-    "knowledge/technologies/Redis Operator.md",
-    "commit all.md"
+    "knowledge/hacks/delete k8s namespace.md"
   ]
 }
