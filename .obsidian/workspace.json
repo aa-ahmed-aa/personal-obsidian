@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43ca9d46b19d3ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/hacks/scp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/Nginx create landing page.md",
+                "file": "knowledge/hacks/scp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/Nginx create landing page.md",
+                "file": "knowledge/hacks/scp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/hacks/Nginx create landing page.md"
+                "file": "knowledge/hacks/scp.md"
               }
             }
           },
@@ -186,13 +198,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "567d49ca6f26d917",
+  "active": "43ca9d46b19d3ebe",
   "lastOpenFiles": [
+    "knowledge/hacks/Nginx create landing page.md",
     "knowledge/hacks/screen.md",
     "knowledge/technologies/K8s Plugins.md",
     "knowledge/technologies/kubectl plugins/kubelogin.md",
     "knowledge/technologies/devspace.md",
-    "knowledge/hacks/Nginx create landing page.md",
     "knowledge/hacks/K8s service hack 🛸.md",
     "knowledge/hacks/microplane.md",
     "knowledge/hacks/delete k8s namespace.md",
