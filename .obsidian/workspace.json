@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf26a022d8c4c66",
+        "id": "32825d1c23970d11",
         "type": "tabs",
         "children": [
           {
-            "id": "b451ba54e6988201",
+            "id": "c8a8bb4731faef8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3e51302ff2177ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/screen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b68172e12e18012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/Forcing docker to use linux amd64 platform by default.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97adaf5645acb51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/hacks/Multi-arch images in docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "2893877acc8c69fc",
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/hacks/Multi-arch images in docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/hacks/Multi-arch images in docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "knowledge/hacks/Multi-arch images in docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,22 +152,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "publish:Publish changes": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "97adaf5645acb51c",
+  "active": "c8a8bb4731faef8e",
   "lastOpenFiles": [
-    "knowledge/hacks/Forcing docker to use linux amd64 platform by default.md",
-    "knowledge/hacks/screen.md",
-    "knowledge/hacks/Nginx create landing page.md",
-    "knowledge/hacks/scp.md",
-    "knowledge/technologies/K8s Plugins.md",
-    "knowledge/technologies/kubectl plugins/kubelogin.md",
-    "knowledge/technologies/devspace.md",
-    "knowledge/hacks/K8s service hack 🛸.md",
-    "knowledge/hacks/microplane.md",
-    "knowledge/hacks/delete k8s namespace.md"
+    "templates/Daily log.md",
+    "aaaa.md",
+    "Untitled.md",
+    "daily_log/__2023_02_08_(_Wednesday_).md",
+    "conflict-files-obsidian-git.md",
+    "knowledge/technologies/Antigen.md",
+    "zsh.md",
+    "knowledge/hacks/enable slack-notification for prometheus.md",
+    "knowledge/hacks/enable obsidian on mobile.md",
+    "work/open kafka-ui in okteto.md"
   ]
 }
