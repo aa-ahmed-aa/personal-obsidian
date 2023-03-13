@@ -1,0 +1,1 @@
+https://www.redhat.com/sysadmin/specify-architecture-pulling-podman-images

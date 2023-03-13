@@ -8,3 +8,6 @@ example with explanation https://www.youtube.com/watch?v=HOmdYtsB950&list=PLiMWa
 
 ### Prometheus Operator vs. kube-prometheus vs. community helm chart
 https://github.com/prometheus-operator/prometheus-operator#prometheus-operator-vs-kube-prometheus-vs-community-helm-chart
+
+
+video that explains the operator some CRDs  https://www.youtube.com/watch?v=6xmWr7p5TE0&ab_channel=KodeKloud

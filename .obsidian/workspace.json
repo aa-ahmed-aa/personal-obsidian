@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "996b5d16fb496fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -157,13 +174,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8a8bb4731faef8e",
+  "active": "996b5d16fb496fa7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "knowledge/technologies/Helm.md",
+    "knowledge/hacks/Podman.md",
+    "knowledge/hacks/How to specify the CPU architecture when pulling images with Podman.md",
     "templates/Daily log.md",
     "aaaa.md",
     "Untitled.md",
     "daily_log/__2023_02_08_(_Wednesday_).md",
-    "conflict-files-obsidian-git.md",
     "knowledge/technologies/Antigen.md",
     "zsh.md",
     "knowledge/hacks/enable slack-notification for prometheus.md",
