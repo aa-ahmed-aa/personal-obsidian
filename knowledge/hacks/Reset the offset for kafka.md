@@ -1,0 +1,1 @@
+if you want to reset the offset for the [[Kafka]] consumer group you need to stop consuming of messages (scale down dyno or pods to 0) and then reset the offset from cli or `kafka-ui` then scale up the consumers to normal replicas
