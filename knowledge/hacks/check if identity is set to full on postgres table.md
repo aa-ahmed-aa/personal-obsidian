@@ -1,3 +1,7 @@
+### why you should do that ?
+This is necessary for Debezium to include `before` value of the entity in the kafka message
+
+### How to set it ?
 replication identity identifies if all columns should apear in the [[Debezium]] event 
 so apply it use this query 
 `ALTER TABLE <TABLE_NAME> REPLICA IDENTITY FULL;`
