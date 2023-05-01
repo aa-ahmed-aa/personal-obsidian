@@ -1,0 +1,1 @@
+https://linuxhint.com/install-zsh-raspberry-pi/
