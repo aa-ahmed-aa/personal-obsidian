@@ -1,0 +1,7 @@
+MapReduce is a programming model and software framework for processing large datasets in a distributed environment. It was originally developed by Google and is now an open-source project supported by the Apache Software Foundation.
+
+The MapReduce model is based on two key functions: the Map function and the Reduce function. The Map function takes a set of input data and processes it to produce a set of intermediate key-value pairs. The Reduce function then takes these intermediate key-value pairs and aggregates them to produce a set of output key-value pairs.
+
+The MapReduce framework provides a way to parallelize the processing of large datasets across multiple nodes in a cluster. The input data is split into smaller chunks, which are processed in parallel by multiple nodes. The intermediate key-value pairs produced by the Map function are then sorted and shuffled across nodes before being processed by the Reduce function. The final output is then collected and combined to produce the result.
+
+MapReduce is typically used for batch processing of large datasets, such as log files, web documents, or scientific data. It is widely used in big data processing systems, such as Hadoop, to perform distributed computation on large-scale datasets. MapReduce provides a scalable and fault-tolerant way to process data and is well-suited for data-intensive processing tasks, such as data cleaning, transformation, and aggregation.
