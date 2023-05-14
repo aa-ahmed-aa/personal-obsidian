@@ -21,9 +21,9 @@ video : https://www.youtube.com/watch?v=xX52dc3u2HU&ab_channel=DevopsCube
 ### there is two ways to create k8s cluster
 
 ## Declarative using yaml file
-2. make sure you have [[containerd]] or whatever [[CRI]] you wana use
-3. create `kubeadm-config.yaml` file and create the cluster resources as you need
-4. here is an example config file for using ip(82.131.58.212) and [[containerd]] as the cri
+1. make sure you have [[containerd]] or whatever [[CRI]] you wana use
+2. create `kubeadm-config.yaml` file and create the cluster resources as you need
+3. here is an example config file for using ip(82.131.58.212) and [[containerd]] as the cri
 ```
 apiVersion: kubeadm.k8s.io/v1beta3
 kind: ClusterConfiguration
@@ -62,3 +62,7 @@ NOTE check every parameter carefully and update it as needed
 
 ### reset or remove a node 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#tear-down
+
+
+see also 
+[[using kubeadm from a config file]]
