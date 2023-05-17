@@ -1,0 +1,2 @@
+because wildcard domains are not working in the `/etc/hosts` file we need some elegant solution 
+blog: https://allanphilipbarku.medium.com/setup-automatic-local-domains-with-dnsmasq-on-macos-ventura-b4cd460d8cb3
