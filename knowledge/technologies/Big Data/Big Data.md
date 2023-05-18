@@ -2,7 +2,7 @@ Stages of data
 Data -> information -> knowledge -> wisdom
 
 - [[Mapreduce]]
-- [[Apache Kafka]]
+- [[Kafka]]
 - [[Debezium]]
 - [[JDBC sink]]
 - [[Kafka Streams]]
