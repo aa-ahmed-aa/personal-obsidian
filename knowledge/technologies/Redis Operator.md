@@ -13,3 +13,6 @@ $ helm install redis ot-helm/redis --namespace ot-operators
 ```
 
 then use `redis.ot-operators.svc.cluster.local` as your redis host to connect to redis on port `6379`
+
+see also
+- [[Helm]]

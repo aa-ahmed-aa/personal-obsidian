@@ -7,3 +7,4 @@ https://developer.confluent.io/learn/kraft/#:~:text=Apache%20Kafka%20Raft%20(KRa
 
 see also
 - [[Kafka]]
+- [[Kafka Streams]]

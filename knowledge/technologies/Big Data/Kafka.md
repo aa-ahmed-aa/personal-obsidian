@@ -12,3 +12,7 @@ is an index into the log file that records the last log entry that is known to 
 
 #### leader epoch
 a leader epoch refers to the number of leaders previously assigned by the controller. Every time a leader fails, the controller selects the new leader, increments the current "leader epoch" by 1, and shares the leader epoch with all replicas
+
+
+see also
+- [[Reset the offset for kafka]]

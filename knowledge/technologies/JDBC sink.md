@@ -3,3 +3,7 @@ The Kafka Connect JDBC Sink connector allows you to export data from Apache Kafk
 docs link https://docs.confluent.io/kafka-connectors/jdbc/current/sink-connector/overview.html
 
 look at [[Debezium]] to check differencies between this and debezium connector
+
+
+see also
+- [[Debezium]]

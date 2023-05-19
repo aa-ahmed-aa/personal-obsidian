@@ -11,3 +11,9 @@ you can use both together to replicate data between microservices and to keep co
 
 
 best practise is to name you topic like this `cdc-debezium.<db_name>.<table_name>`
+
+
+see also
+- [[Kafka]]
+- [[KafkaUI]]
+- [[JDBC sink]]

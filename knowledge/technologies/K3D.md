@@ -7,3 +7,14 @@ good blog for working with k3d  https://akyriako.medium.com/provision-a-high-ava
 
 ### installation 
 https://k3d.io/v5.4.7/
+
+
+
+see also
+- [[using kubeadm from a config file]]
+- [[Multi-arch images in docker]]
+- [[schadule pods on the master node]]
+- [[How to specify the CPU architecture when pulling images with Podman]]
+- [[Forcing docker to use linux amd64 platform by default]]
+- [[delete k8s namespace]]
+- [[base64 encode and decode]]

@@ -21,3 +21,7 @@ https://www.devspace.sh/docs/configuration/dev/connections/terminal#stream-logs
 ### file sync 
 https://www.devspace.sh/docs/configuration/dev/connections/file-sync
 
+see also
+- [[K3S]]
+- [[K3D]]
+- [[Kubeadm]]

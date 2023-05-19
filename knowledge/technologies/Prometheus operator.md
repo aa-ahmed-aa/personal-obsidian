@@ -11,3 +11,6 @@ https://github.com/prometheus-operator/prometheus-operator#prometheus-operator-v
 
 
 video that explains the operator some CRDs  https://www.youtube.com/watch?v=6xmWr7p5TE0&ab_channel=KodeKloud
+
+see also
+- [[Helm]]

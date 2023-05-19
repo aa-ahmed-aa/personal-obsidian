@@ -11,3 +11,8 @@ small note in the [docs](https://argo-cd.readthedocs.io/en/stable/operator-manua
 
 more info here https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress/
 
+see also
+- [[K3S]]
+- [[K3D]]
+- [[microk8s]]
+- [[base64 encode and decode]]
