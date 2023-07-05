@@ -16,3 +16,4 @@ a leader epoch refers to the number of leaders previously assigned by the contr
 
 see also
 - [[Reset the offset for kafka]]
+- [[Speed up your consumers]]
