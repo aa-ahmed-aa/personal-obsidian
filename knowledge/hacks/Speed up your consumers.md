@@ -1,0 +1,7 @@
+- use batch processing and consider 
+	- send multiple heartbeat 
+	- increase timeout as possible for this consumer
+- if possible try to filter or compact messages for example pick user latest updates if this is gona reduce the batch size
+- do bulk fetch and bulk updates
+- use transaction and do async writes 
+- use connection pooling 

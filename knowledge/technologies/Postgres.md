@@ -6,3 +6,5 @@ are just like views with some small differencies:
 see also
 - [[pgbench]]
 - [[check if identity is set to full on postgres table]]
+- [[stats of index usage]]
+- [[stats of actions of tables]]
