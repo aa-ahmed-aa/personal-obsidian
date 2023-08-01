@@ -8,3 +8,4 @@ see also
 - [[check if identity is set to full on postgres table]]
 - [[stats of index usage]]
 - [[stats of actions of tables]]
+- [[List table indeces postgress]]
