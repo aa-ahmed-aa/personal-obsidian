@@ -9,5 +9,14 @@ Every change to a row in represented as a line in the bin log not as SQL but the
 `MIXED`
 This will log both the statement and row data this is not highly recommended as the disk space will double
 
-[[Debezium]]
-[[Check if bin_log is enabled]]
+to check the format use this SQL query
+
+```
+SELECT variable_value as bin_log_format
+FROM performance_schema.global_variables
+WHERE variable_name='binlog_format';
+```
+
+see also
+- [[Debezium]]
+- [[Check if bin_log is enabled]]
