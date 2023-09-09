@@ -20,3 +20,4 @@ see also
 - [[Check if bin_log is enabled]]
 - [[check if identity is set to full on postgress table]]
 - [[Ensure bin_log format is set correctly]]
+- [[python mysql replication]]
