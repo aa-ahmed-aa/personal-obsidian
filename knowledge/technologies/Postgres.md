@@ -5,7 +5,7 @@ are just like views with some small differences:
 
 see also
 - [[pgbench]]
-- [[check if identity is set to full on postgres table]]
+- [[check if identity is set to full on postgress table]]
 - [[stats of index usage]]
 - [[stats of actions of tables]]
 - [[List table indeces postgress]]
