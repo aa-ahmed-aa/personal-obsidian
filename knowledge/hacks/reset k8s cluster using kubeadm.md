@@ -1,0 +1,1 @@
+https://sandeepnkulkarni.wordpress.com/2020/07/11/reset-kubernetes-cluster-using-kubeadm/
