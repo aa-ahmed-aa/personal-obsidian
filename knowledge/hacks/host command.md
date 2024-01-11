@@ -1,0 +1,1 @@
+this command will tell you the name server (domain itself, google.com) of specific ip address example `host 127.0.0.1`
