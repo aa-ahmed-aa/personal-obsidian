@@ -1,6 +1,6 @@
 ### How to do it ?
-- eat healthy food so you are not tired when you are trying to wake up early 
-- sleep early 
+- eat healthy food so you are not tired most of the time
+- sleep early , wakeup early
 - go to FUcking GYM !!!
 
 

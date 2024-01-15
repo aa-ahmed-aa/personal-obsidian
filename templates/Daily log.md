@@ -3,9 +3,8 @@
 {{time:HH:mm A}}
 
 ## Morning Tasks
-- [ ] Wake up at 8 or eariler
-- [ ] Brush your teeth
-- [ ] Sob7 Prayers
+- [ ] 20 pushups
+- [ ] Sob7 prayer 
 
 ## Want to do today
 - [ ] 
