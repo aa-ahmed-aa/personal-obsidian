@@ -1,0 +1,4 @@
+Over the years, many approaches have been invented to make CSS more manageable. Some choose to use a strict naming convention, such as [BEM](http://getbem.com/), to ensure selectors only apply where intended. Others, preferring not to rely on developer discipline alone, use a pre-processor such as [SASS](https://sass-lang.com/), whose selector nesting can be used as a form of namespacing. A newer approach is to apply all styles programatically with [CSS modules](https://github.com/css-modules/css-modules) or one of the various [CSS-in-JS](https://mxstbr.com/thoughts/css-in-js/) libraries, which ensures that styles are directly applied only in the places the developer intends. Or for a more platform-based approach, [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) also offers style isolation.
+
+copied from [MartinFolwer blog](https://martinfowler.com/articles/micro-frontends.html)
+
